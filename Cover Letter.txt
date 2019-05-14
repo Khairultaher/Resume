@@ -1,13 +1,16 @@
 Dear Sir/Madam,
-I have more than 5 years’ experience in .Net (C#), WCF(SOAP & REST), SQL Server(5-17), SSIS (BI tool for ETL), JavaScript as well as others related 
+I have more than 5 yearsâ€™ experience in .Net (C#), WCF(SOAP & REST), SQL Server(5-17),MongoDB, SSIS (BI tool for ETL), JavaScript as well as others related 
 cutting edge technology like Python for Data Mining & Machine Learning.
-I have experience working with two cmmi level 5 company in Bangladesh , They are Southtech Limited and DataSoft Systems Bangladesh Limited 
+
+My most focused working area is back-end (complex query writing & optimization, customized ETL tool development, preprocessing of semi or unstructured data, data visualization)
+That is go on with your requirement very  well.
+
+Besides these, I have experience working with two cmmi level 5 company in Bangladesh , They are Southtech Limited and DataSoft Systems Bangladesh Limited 
 (where I am currently working). When I was at Southtech Limited then I worked with some foreign client in  Bhutan and Myanmar, 
 Now I am working with Alacer Group, a financial services consultant, USA.
 
-Besides these I am an agile enthusiast, Certified Scrum Master (CSM) and has completed an advanced certificate for management professionals (camp 4.0) from IBA-DU.
+I am also an agile enthusiast, Certified Scrum Master (CSM) and has completed an advanced certificate for management professionals (camp 4.0) from IBA-DU.
 
-I attached herewith my CV and for more information about my activity please go through the link: https://github.com/Khairultaher
+For your kind information, I attached herewith my CV and for more information about my activity please go through the link: https://github.com/Khairultaher
 
 Thanks and Best regards,
-Md. Khairul Alam
