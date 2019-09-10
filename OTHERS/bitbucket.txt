@@ -1,0 +1,29 @@
+you@yourPC MINGW64 ~/your-file(master)
+$ git config --list
+if anything is wrong, so do as follows :
+
+step 1:
+
+you@yourPC MINGW64 ~/your-file(master)
+$ git init
+Reinitialized existing Git repository in C:yourPath/your-repo
+step 2:
+
+you@yourPC MINGW64 ~/your-file(master)
+$ git add .
+step 3:
+
+you@yourPC MINGW64 ~/your-file(master)
+$ git commit -m "second commit"
+step 4:
+
+you@yourPC MINGW64 ~/your-file(master)
+$ git config --global user.name "Your Name"
+step 5:
+
+you@yourPC MINGW64 ~/your-file(master)
+$  git config --global user.email you@example.com
+step 6:
+
+you@yourPC MINGW64 ~/your-file(master)
+$  git push origin master
